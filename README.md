@@ -83,4 +83,4 @@ If you wish to extend this lab, you will need to add features including interact
 
 - Add one more feature of your choice other than those listed here. Mention this feature explicitly in your README.md. 
 
- - The feature you add should not be trivial (e.g. display the total number of tweets). As a baseline, it should be at least as complex as adding a new page that lets the user search through and display all the existing tweets containing some search term (where users should still be able to interact with those tweets as normal). 
+  - The feature you add should not be trivial (e.g. display the total number of tweets). As a baseline, it should be at least as complex as adding a new page that lets the user search through and display all the existing tweets containing some search term (where users should still be able to interact with those tweets as normal). 
