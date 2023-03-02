@@ -79,6 +79,8 @@ If you wish to extend this lab, you will need to add features including interact
 
 - Clicking the bookmark button should set the tweet to be a favorited tweet. Favorited tweets will always appear at the top of the feed, with any replies directly below them. Clicking the bookmark button a second time should cause the tweet to no longer be favorited.
 
-- Access Twitter.com directly to generate the initial tweets that appear when starting the app. You can choose any random tweets you want, and you don't need to actually interact with the real tweets, but you should be able to retrieve their information and use that to populate your feed.
+- Access a local SQLite database to generate the initial tweets that appear when starting the app. Any changes you make using the other features should be saved to the database.
 
-- Add one more feature of your choice other than those listed here. Mention this feature explicitly in your README.md.
+- Add one more feature of your choice other than those listed here. Mention this feature explicitly in your README.md. 
+
+ - The feature you add should not be trivial (e.g. display the total number of tweets). As a baseline, it should be at least as complex as adding a new page that lets the user search through and display all the existing tweets containing some search term (where users should still be able to interact with those tweets as normal). 
